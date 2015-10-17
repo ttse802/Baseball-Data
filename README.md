@@ -2,6 +2,8 @@ Summary – This is a visualization to show the data between right, left and bot
 
 Design – The data included height and weight, but I did not include them on the graphs as I do not see a story that correlates with the performance, and they might actually act as a distraction.  I want to design a visual that is simple and straight to the takeaway.  Moreover, I want the audience to have interaction by clicking on the legend to explore the data for each of the handed dataset.  Lastly, I also want the audience to be able to interact by drilling down on the player’s name and their performance data by pointing on top of the circles.  I designed the circle to have small radius and low opacity to prevent overfilling.  However, the circle size and opacity changes when the user clicks into the legend to view the data handedness individually.
 
+I posted my first draft in the class forum, but I have not received feedback yet.  However, I did share the visual with my wife, colleague, and sister.  After receiving feedback from them, I made several minor changes.  First, I added a descriptive line at the top of the page to explain the main takeaway of the data visual.  Second, I added the measurement unit (%) to my x-axis so the audience can know the battling average is a percentage.  Third, I changed the title to blue color based because my audiences prefer the color blue rather than grey.  Lastly, I added a link to access my Git repository where audience can access my code and the actual data.
+
 Feedback – 
 I posted my visual on class forum on the link below, but I did not receive a feedback from the class yet.
 https://discussions.udacity.com/t/required-project-feedback-baseball-player-data/34992

@@ -53,6 +53,7 @@
           var myChart = new dimple.chart(svg, data);
           // Labeling X axist with battling average in decimal places 
           var xAxis = myChart.addMeasureAxis("x", "avg");
+          xAxis.overrideMin = .2
           xAxis.tickFormat = "g";
           xAxis.title = "Batting Average %";
           // Labeling Y axis with home runs
@@ -111,12 +112,13 @@
             // Set the initial circle size and opacity
             setTimeout(function () {
             d3.selectAll('circle')
-              .attr("r", 3)
+              .attr("r", 2)
               .attr("opacity", "0.4");
           }, 100);
       });
   </script>
 </div>
-  <div class = "image"><img src = "desktop/project/boxplot-handedness-avg.jpg"></div>
-  <div class = "image"><img src = "desktop/project/boxplot-handedness-HR.jpg"></div>
+        // insert boxplot from data exploratory
+   <div class = "image"><img src = "desktop/project/boxplot-handedness-avg.jpg"></div>
+   <div class = "image"><img src = "desktop/project/boxplot-handedness-HR.jpg"></div>
 </html>

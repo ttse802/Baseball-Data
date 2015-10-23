@@ -54,6 +54,9 @@ There are a few outliers on the data.  Practicing with both hands to adjust to t
 No.
 
 Resources – I used this advanced example template from dimplejs.org and Udacity class examples in lesson 2 to design my data visual. 
+
 http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legends
 https://www.udacity.com/course/viewer#!/c-ud507-nd/l-3168988586/e-3063989008/m-3063989009
+http://dimplejs.org/advanced_examples_viewer.html?id=advanced_time_axis
+
 
